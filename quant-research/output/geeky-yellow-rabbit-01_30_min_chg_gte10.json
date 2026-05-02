@@ -1,0 +1,2216 @@
+﻿[
+    {
+        "time":  "2025-01-03 10:00:00",
+        "ticker":  "APM",
+        "previous_close":  2.2,
+        "before_open":  2.26,
+        "before_open_chg":  2.73,
+        "30_min":  3.903,
+        "30_min_chg":  72.7
+    },
+    {
+        "time":  "2025-01-03 10:00:00",
+        "ticker":  "KORE",
+        "previous_close":  2.69,
+        "before_open":  2.82,
+        "before_open_chg":  4.83,
+        "30_min":  3.375,
+        "30_min_chg":  19.68
+    },
+    {
+        "time":  "2025-01-03 10:00:00",
+        "ticker":  "NEXA",
+        "previous_close":  7.2,
+        "before_open":  7.95,
+        "before_open_chg":  10.42,
+        "30_min":  9.2,
+        "30_min_chg":  15.72
+    },
+    {
+        "time":  "2025-01-03 10:00:00",
+        "ticker":  "OST",
+        "previous_close":  2.31,
+        "before_open":  2.37,
+        "before_open_chg":  2.6,
+        "30_min":  2.865,
+        "30_min_chg":  20.89
+    },
+    {
+        "time":  "2025-01-03 10:00:00",
+        "ticker":  "RR",
+        "previous_close":  2.41,
+        "before_open":  2.4791,
+        "before_open_chg":  2.87,
+        "30_min":  2.875,
+        "30_min_chg":  15.97
+    },
+    {
+        "time":  "2025-01-03 10:00:00",
+        "ticker":  "XPON",
+        "previous_close":  2.0,
+        "before_open":  2.12,
+        "before_open_chg":  6.0,
+        "30_min":  3.5133,
+        "30_min_chg":  65.72
+    },
+    {
+        "time":  "2025-01-06 10:00:00",
+        "ticker":  "NRXP",
+        "previous_close":  2.69,
+        "before_open":  2.8003,
+        "before_open_chg":  4.1,
+        "30_min":  3.322,
+        "30_min_chg":  18.63
+    },
+    {
+        "time":  "2025-01-07 10:00:00",
+        "ticker":  "OPTX",
+        "previous_close":  2.81,
+        "before_open":  2.9197,
+        "before_open_chg":  3.9,
+        "30_min":  3.38,
+        "30_min_chg":  15.77
+    },
+    {
+        "time":  "2025-01-08 10:00:00",
+        "ticker":  "CISO",
+        "previous_close":  1.7,
+        "before_open":  1.75,
+        "before_open_chg":  2.94,
+        "30_min":  2.59,
+        "30_min_chg":  48.0
+    },
+    {
+        "time":  "2025-01-10 10:00:00",
+        "ticker":  "CISO",
+        "previous_close":  1.21,
+        "before_open":  1.28,
+        "before_open_chg":  5.79,
+        "30_min":  1.48,
+        "30_min_chg":  15.62
+    },
+    {
+        "time":  "2025-01-10 10:00:00",
+        "ticker":  "SANA",
+        "previous_close":  4.3,
+        "before_open":  5.0,
+        "before_open_chg":  16.28,
+        "30_min":  5.63,
+        "30_min_chg":  12.6
+    },
+    {
+        "time":  "2025-01-13 10:00:00",
+        "ticker":  "HOLO",
+        "previous_close":  2.22,
+        "before_open":  2.37,
+        "before_open_chg":  6.76,
+        "30_min":  2.6574,
+        "30_min_chg":  12.13
+    },
+    {
+        "time":  "2025-01-14 10:00:00",
+        "ticker":  "LSH",
+        "previous_close":  2.13,
+        "before_open":  2.25,
+        "before_open_chg":  5.63,
+        "30_min":  2.75,
+        "30_min_chg":  22.22
+    },
+    {
+        "time":  "2025-01-14 10:00:00",
+        "ticker":  "SKYQ",
+        "previous_close":  1.16,
+        "before_open":  1.2,
+        "before_open_chg":  3.45,
+        "30_min":  1.34,
+        "30_min_chg":  11.67
+    },
+    {
+        "time":  "2025-01-15 10:00:00",
+        "ticker":  "ALLT",
+        "previous_close":  6.88,
+        "before_open":  7.05,
+        "before_open_chg":  2.47,
+        "30_min":  7.8066,
+        "30_min_chg":  10.73
+    },
+    {
+        "time":  "2025-01-15 10:00:00",
+        "ticker":  "ATOM",
+        "previous_close":  9.3,
+        "before_open":  10.0,
+        "before_open_chg":  7.53,
+        "30_min":  11.064,
+        "30_min_chg":  10.64
+    },
+    {
+        "time":  "2025-01-15 10:00:00",
+        "ticker":  "ATRA",
+        "previous_close":  12.31,
+        "before_open":  13.31,
+        "before_open_chg":  8.12,
+        "30_min":  15.58,
+        "30_min_chg":  17.05
+    },
+    {
+        "time":  "2025-01-15 10:00:00",
+        "ticker":  "MBOT",
+        "previous_close":  1.54,
+        "before_open":  1.58,
+        "before_open_chg":  2.6,
+        "30_min":  1.82,
+        "30_min_chg":  15.19
+    },
+    {
+        "time":  "2025-01-15 10:00:00",
+        "ticker":  "FTEL",
+        "previous_close":  8.26,
+        "before_open":  8.72,
+        "before_open_chg":  5.57,
+        "30_min":  9.82,
+        "30_min_chg":  12.61
+    },
+    {
+        "time":  "2025-01-15 10:00:00",
+        "ticker":  "RVPH",
+        "previous_close":  1.58,
+        "before_open":  1.65,
+        "before_open_chg":  4.43,
+        "30_min":  1.875,
+        "30_min_chg":  13.64
+    },
+    {
+        "time":  "2025-01-15 10:00:00",
+        "ticker":  "VRME",
+        "previous_close":  3.2,
+        "before_open":  3.6087,
+        "before_open_chg":  12.77,
+        "30_min":  4.19,
+        "30_min_chg":  16.11
+    },
+    {
+        "time":  "2025-01-16 10:00:00",
+        "ticker":  "VCIG",
+        "previous_close":  1.535,
+        "before_open":  1.63,
+        "before_open_chg":  6.19,
+        "30_min":  1.96,
+        "30_min_chg":  20.25
+    },
+    {
+        "time":  "2025-01-17 10:00:00",
+        "ticker":  "ATOM",
+        "previous_close":  8.4,
+        "before_open":  8.97,
+        "before_open_chg":  6.79,
+        "30_min":  10.885,
+        "30_min_chg":  21.35
+    },
+    {
+        "time":  "2025-01-21 10:00:00",
+        "ticker":  "INTZ",
+        "previous_close":  2.31,
+        "before_open":  2.38,
+        "before_open_chg":  3.03,
+        "30_min":  2.651,
+        "30_min_chg":  11.39
+    },
+    {
+        "time":  "2025-01-23 10:00:00",
+        "ticker":  "ALMS",
+        "previous_close":  6.9,
+        "before_open":  7.04,
+        "before_open_chg":  2.03,
+        "30_min":  7.7458,
+        "30_min_chg":  10.03
+    },
+    {
+        "time":  "2025-01-23 10:00:00",
+        "ticker":  "TOMZ",
+        "previous_close":  1.01,
+        "before_open":  1.0399,
+        "before_open_chg":  2.96,
+        "30_min":  1.3393,
+        "30_min_chg":  28.79
+    },
+    {
+        "time":  "2025-01-24 10:00:00",
+        "ticker":  "NRXP",
+        "previous_close":  2.93,
+        "before_open":  3.04,
+        "before_open_chg":  3.75,
+        "30_min":  3.47,
+        "30_min_chg":  14.14
+    },
+    {
+        "time":  "2025-01-28 10:00:00",
+        "ticker":  "UCAR",
+        "previous_close":  4.09,
+        "before_open":  4.31,
+        "before_open_chg":  5.38,
+        "30_min":  5.53,
+        "30_min_chg":  28.31
+    },
+    {
+        "time":  "2025-02-04 10:00:00",
+        "ticker":  "SLS",
+        "previous_close":  1.48,
+        "before_open":  1.51,
+        "before_open_chg":  2.03,
+        "30_min":  1.71,
+        "30_min_chg":  13.25
+    },
+    {
+        "time":  "2025-02-05 10:00:00",
+        "ticker":  "NVNI",
+        "previous_close":  5.74,
+        "before_open":  6.22,
+        "before_open_chg":  8.36,
+        "30_min":  7.22,
+        "30_min_chg":  16.08
+    },
+    {
+        "time":  "2025-02-06 10:00:00",
+        "ticker":  "PWM",
+        "previous_close":  1.14,
+        "before_open":  1.17,
+        "before_open_chg":  2.63,
+        "30_min":  1.93,
+        "30_min_chg":  64.96
+    },
+    {
+        "time":  "2025-02-07 10:00:00",
+        "ticker":  "DNA",
+        "previous_close":  13.68,
+        "before_open":  13.99,
+        "before_open_chg":  2.27,
+        "30_min":  15.93,
+        "30_min_chg":  13.87
+    },
+    {
+        "time":  "2025-02-10 10:00:00",
+        "ticker":  "NGNE",
+        "previous_close":  20.46,
+        "before_open":  21.0,
+        "before_open_chg":  2.64,
+        "30_min":  23.12,
+        "30_min_chg":  10.1
+    },
+    {
+        "time":  "2025-02-10 10:00:00",
+        "ticker":  "TNXP",
+        "previous_close":  12.39,
+        "before_open":  12.73,
+        "before_open_chg":  2.74,
+        "30_min":  17.11,
+        "30_min_chg":  34.41
+    },
+    {
+        "time":  "2025-02-11 10:00:00",
+        "ticker":  "BZAI",
+        "previous_close":  3.44,
+        "before_open":  3.6692,
+        "before_open_chg":  6.66,
+        "30_min":  4.81,
+        "30_min_chg":  31.09
+    },
+    {
+        "time":  "2025-02-13 10:00:00",
+        "ticker":  "CPSH",
+        "previous_close":  1.985,
+        "before_open":  2.05,
+        "before_open_chg":  3.27,
+        "30_min":  2.2699,
+        "30_min_chg":  10.73
+    },
+    {
+        "time":  "2025-02-14 10:00:00",
+        "ticker":  "NVNI",
+        "previous_close":  3.21,
+        "before_open":  3.2826,
+        "before_open_chg":  2.26,
+        "30_min":  3.65,
+        "30_min_chg":  11.19
+    },
+    {
+        "time":  "2025-02-14 10:00:00",
+        "ticker":  "OPRT",
+        "previous_close":  6.4,
+        "before_open":  6.69,
+        "before_open_chg":  4.53,
+        "30_min":  7.5973,
+        "30_min_chg":  13.56
+    },
+    {
+        "time":  "2025-02-18 10:00:00",
+        "ticker":  "EAF",
+        "previous_close":  1.14,
+        "before_open":  1.18,
+        "before_open_chg":  3.51,
+        "30_min":  1.325,
+        "30_min_chg":  12.29
+    },
+    {
+        "time":  "2025-02-19 10:00:00",
+        "ticker":  "ASYS",
+        "previous_close":  5.62,
+        "before_open":  5.74,
+        "before_open_chg":  2.14,
+        "30_min":  6.33,
+        "30_min_chg":  10.28
+    },
+    {
+        "time":  "2025-02-19 10:00:00",
+        "ticker":  "BZAI",
+        "previous_close":  4.31,
+        "before_open":  4.44,
+        "before_open_chg":  3.02,
+        "30_min":  5.224,
+        "30_min_chg":  17.66
+    },
+    {
+        "time":  "2025-02-19 10:00:00",
+        "ticker":  "CABA",
+        "previous_close":  2.33,
+        "before_open":  2.4,
+        "before_open_chg":  3.0,
+        "30_min":  2.75,
+        "30_min_chg":  14.58
+    },
+    {
+        "time":  "2025-02-19 10:00:00",
+        "ticker":  "CSAI",
+        "previous_close":  10.4949,
+        "before_open":  10.8,
+        "before_open_chg":  2.91,
+        "30_min":  19.52,
+        "30_min_chg":  80.74
+    },
+    {
+        "time":  "2025-02-19 10:00:00",
+        "ticker":  "NVNI",
+        "previous_close":  2.58,
+        "before_open":  2.6403,
+        "before_open_chg":  2.34,
+        "30_min":  3.385,
+        "30_min_chg":  28.21
+    },
+    {
+        "time":  "2025-02-19 10:00:00",
+        "ticker":  "LFWD",
+        "previous_close":  2.0,
+        "before_open":  2.05,
+        "before_open_chg":  2.5,
+        "30_min":  2.2924,
+        "30_min_chg":  11.82
+    },
+    {
+        "time":  "2025-02-19 10:00:00",
+        "ticker":  "SLDB",
+        "previous_close":  5.3,
+        "before_open":  5.42,
+        "before_open_chg":  2.26,
+        "30_min":  6.07,
+        "30_min_chg":  11.99
+    },
+    {
+        "time":  "2025-02-20 10:00:00",
+        "ticker":  "CTXR",
+        "previous_close":  2.15,
+        "before_open":  2.25,
+        "before_open_chg":  4.65,
+        "30_min":  2.7376,
+        "30_min_chg":  21.67
+    },
+    {
+        "time":  "2025-02-20 10:00:00",
+        "ticker":  "SMXT",
+        "previous_close":  1.285,
+        "before_open":  1.33,
+        "before_open_chg":  3.5,
+        "30_min":  1.5095,
+        "30_min_chg":  13.5
+    },
+    {
+        "time":  "2025-02-21 10:00:00",
+        "ticker":  "WOK",
+        "previous_close":  1.3,
+        "before_open":  1.33,
+        "before_open_chg":  2.31,
+        "30_min":  4.88,
+        "30_min_chg":  266.92
+    },
+    {
+        "time":  "2025-02-24 10:00:00",
+        "ticker":  "AAOI",
+        "previous_close":  27.04,
+        "before_open":  27.85,
+        "before_open_chg":  3.0,
+        "30_min":  30.98,
+        "30_min_chg":  11.24
+    },
+    {
+        "time":  "2025-02-24 10:00:00",
+        "ticker":  "INLF",
+        "previous_close":  2.44,
+        "before_open":  2.53,
+        "before_open_chg":  3.69,
+        "30_min":  2.8129,
+        "30_min_chg":  11.18
+    },
+    {
+        "time":  "2025-02-24 10:00:00",
+        "ticker":  "NIXX",
+        "previous_close":  1.96,
+        "before_open":  2.0,
+        "before_open_chg":  2.04,
+        "30_min":  2.59,
+        "30_min_chg":  29.5
+    },
+    {
+        "time":  "2025-02-24 10:00:00",
+        "ticker":  "SRFM",
+        "previous_close":  3.89,
+        "before_open":  3.98,
+        "before_open_chg":  2.31,
+        "30_min":  4.405,
+        "30_min_chg":  10.68
+    },
+    {
+        "time":  "2025-02-25 10:00:00",
+        "ticker":  "ILLR",
+        "previous_close":  1.04,
+        "before_open":  1.08,
+        "before_open_chg":  3.85,
+        "30_min":  1.2,
+        "30_min_chg":  11.11
+    },
+    {
+        "time":  "2025-02-26 10:00:00",
+        "ticker":  "YOSH",
+        "previous_close":  7.72,
+        "before_open":  8.09,
+        "before_open_chg":  4.79,
+        "30_min":  9.24,
+        "30_min_chg":  14.22
+    },
+    {
+        "time":  "2025-02-27 10:00:00",
+        "ticker":  "SAG",
+        "previous_close":  1.9,
+        "before_open":  2.05,
+        "before_open_chg":  7.89,
+        "30_min":  2.83,
+        "30_min_chg":  38.05
+    },
+    {
+        "time":  "2025-03-04 10:00:00",
+        "ticker":  "CRML",
+        "previous_close":  1.67,
+        "before_open":  1.73,
+        "before_open_chg":  3.59,
+        "30_min":  1.98,
+        "30_min_chg":  14.45
+    },
+    {
+        "time":  "2025-03-04 10:00:00",
+        "ticker":  "TRNR",
+        "previous_close":  2.31,
+        "before_open":  2.66,
+        "before_open_chg":  15.15,
+        "30_min":  3.8702,
+        "30_min_chg":  45.5
+    },
+    {
+        "time":  "2025-03-10 10:00:00",
+        "ticker":  "GV",
+        "previous_close":  6.05,
+        "before_open":  6.4323,
+        "before_open_chg":  6.32,
+        "30_min":  7.09,
+        "30_min_chg":  10.22
+    },
+    {
+        "time":  "2025-03-11 10:00:00",
+        "ticker":  "TLSA",
+        "previous_close":  1.55,
+        "before_open":  1.59,
+        "before_open_chg":  2.58,
+        "30_min":  1.775,
+        "30_min_chg":  11.64
+    },
+    {
+        "time":  "2025-03-11 10:00:00",
+        "ticker":  "TNXP",
+        "previous_close":  13.47,
+        "before_open":  13.75,
+        "before_open_chg":  2.08,
+        "30_min":  15.17,
+        "30_min_chg":  10.33
+    },
+    {
+        "time":  "2025-03-12 10:00:00",
+        "ticker":  "BTAI",
+        "previous_close":  2.47,
+        "before_open":  2.52,
+        "before_open_chg":  2.02,
+        "30_min":  2.89,
+        "30_min_chg":  14.68
+    },
+    {
+        "time":  "2025-03-14 10:00:00",
+        "ticker":  "PHAT",
+        "previous_close":  4.22,
+        "before_open":  4.35,
+        "before_open_chg":  3.08,
+        "30_min":  4.79,
+        "30_min_chg":  10.11
+    },
+    {
+        "time":  "2025-03-14 10:00:00",
+        "ticker":  "LFWD",
+        "previous_close":  1.6,
+        "before_open":  1.64,
+        "before_open_chg":  2.5,
+        "30_min":  2.43,
+        "30_min_chg":  48.17
+    },
+    {
+        "time":  "2025-03-18 10:00:00",
+        "ticker":  "QMMM",
+        "previous_close":  1.43,
+        "before_open":  1.4999,
+        "before_open_chg":  4.89,
+        "30_min":  1.701,
+        "30_min_chg":  13.41
+    },
+    {
+        "time":  "2025-03-19 10:00:00",
+        "ticker":  "AIFF",
+        "previous_close":  4.62,
+        "before_open":  4.9891,
+        "before_open_chg":  7.99,
+        "30_min":  5.73,
+        "30_min_chg":  14.85
+    },
+    {
+        "time":  "2025-03-19 10:00:00",
+        "ticker":  "SCNX",
+        "previous_close":  1.59,
+        "before_open":  1.905,
+        "before_open_chg":  19.81,
+        "30_min":  2.9186,
+        "30_min_chg":  53.21
+    },
+    {
+        "time":  "2025-03-19 10:00:00",
+        "ticker":  "QMMM",
+        "previous_close":  1.17,
+        "before_open":  1.22,
+        "before_open_chg":  4.27,
+        "30_min":  1.43,
+        "30_min_chg":  17.21
+    },
+    {
+        "time":  "2025-03-20 10:00:00",
+        "ticker":  "BDTX",
+        "previous_close":  1.72,
+        "before_open":  1.84,
+        "before_open_chg":  6.98,
+        "30_min":  2.22,
+        "30_min_chg":  20.65
+    },
+    {
+        "time":  "2025-03-21 10:00:00",
+        "ticker":  "KBSX",
+        "previous_close":  2.95,
+        "before_open":  3.05,
+        "before_open_chg":  3.39,
+        "30_min":  3.427,
+        "30_min_chg":  12.36
+    },
+    {
+        "time":  "2025-03-21 10:00:00",
+        "ticker":  "YHC",
+        "previous_close":  2.27,
+        "before_open":  2.41,
+        "before_open_chg":  6.17,
+        "30_min":  2.7,
+        "30_min_chg":  12.03
+    },
+    {
+        "time":  "2025-03-24 10:00:00",
+        "ticker":  "JVA",
+        "previous_close":  4.02,
+        "before_open":  4.1594,
+        "before_open_chg":  3.47,
+        "30_min":  4.69,
+        "30_min_chg":  12.76
+    },
+    {
+        "time":  "2025-03-25 10:00:00",
+        "ticker":  "FNGR",
+        "previous_close":  1.56,
+        "before_open":  1.6,
+        "before_open_chg":  2.56,
+        "30_min":  1.76,
+        "30_min_chg":  10.0
+    },
+    {
+        "time":  "2025-03-25 10:00:00",
+        "ticker":  "HUHU",
+        "previous_close":  5.38,
+        "before_open":  5.53,
+        "before_open_chg":  2.79,
+        "30_min":  7.64,
+        "30_min_chg":  38.16
+    },
+    {
+        "time":  "2025-03-26 10:00:00",
+        "ticker":  "DATS",
+        "previous_close":  3.78,
+        "before_open":  4.2,
+        "before_open_chg":  11.11,
+        "30_min":  5.08,
+        "30_min_chg":  20.95
+    },
+    {
+        "time":  "2025-03-27 10:00:00",
+        "ticker":  "BLNE",
+        "previous_close":  2.08,
+        "before_open":  2.15,
+        "before_open_chg":  3.37,
+        "30_min":  2.535,
+        "30_min_chg":  17.91
+    },
+    {
+        "time":  "2025-03-31 10:00:00",
+        "ticker":  "KYTX",
+        "previous_close":  1.9999,
+        "before_open":  2.09,
+        "before_open_chg":  4.51,
+        "30_min":  2.35,
+        "30_min_chg":  12.44
+    },
+    {
+        "time":  "2025-03-31 10:00:00",
+        "ticker":  "MGNX",
+        "previous_close":  1.26,
+        "before_open":  1.29,
+        "before_open_chg":  2.38,
+        "30_min":  1.43,
+        "30_min_chg":  10.85
+    },
+    {
+        "time":  "2025-04-01 10:00:00",
+        "ticker":  "MYSZ",
+        "previous_close":  1.43,
+        "before_open":  1.58,
+        "before_open_chg":  10.49,
+        "30_min":  2.62,
+        "30_min_chg":  65.82
+    },
+    {
+        "time":  "2025-04-02 10:00:00",
+        "ticker":  "TELO",
+        "previous_close":  2.75,
+        "before_open":  2.81,
+        "before_open_chg":  2.18,
+        "30_min":  3.26,
+        "30_min_chg":  16.01
+    },
+    {
+        "time":  "2025-04-03 10:00:00",
+        "ticker":  "GRI",
+        "previous_close":  1.67,
+        "before_open":  1.7101,
+        "before_open_chg":  2.4,
+        "30_min":  2.4289,
+        "30_min_chg":  42.03
+    },
+    {
+        "time":  "2025-04-09 10:00:00",
+        "ticker":  "BFRG",
+        "previous_close":  1.36,
+        "before_open":  1.39,
+        "before_open_chg":  2.21,
+        "30_min":  1.59,
+        "30_min_chg":  14.39
+    },
+    {
+        "time":  "2025-04-09 10:00:00",
+        "ticker":  "CC",
+        "previous_close":  9.58,
+        "before_open":  9.87,
+        "before_open_chg":  3.03,
+        "30_min":  11.0,
+        "30_min_chg":  11.45
+    },
+    {
+        "time":  "2025-04-09 10:00:00",
+        "ticker":  "CCCC",
+        "previous_close":  1.205,
+        "before_open":  1.24,
+        "before_open_chg":  2.9,
+        "30_min":  1.38,
+        "30_min_chg":  11.29
+    },
+    {
+        "time":  "2025-04-09 10:00:00",
+        "ticker":  "CDLX",
+        "previous_close":  1.225,
+        "before_open":  1.28,
+        "before_open_chg":  4.49,
+        "30_min":  1.465,
+        "30_min_chg":  14.45
+    },
+    {
+        "time":  "2025-04-09 10:00:00",
+        "ticker":  "IONQ",
+        "previous_close":  21.28,
+        "before_open":  21.77,
+        "before_open_chg":  2.3,
+        "30_min":  24.03,
+        "30_min_chg":  10.38
+    },
+    {
+        "time":  "2025-04-09 10:00:00",
+        "ticker":  "MP",
+        "previous_close":  21.94,
+        "before_open":  22.53,
+        "before_open_chg":  2.69,
+        "30_min":  25.1,
+        "30_min_chg":  11.41
+    },
+    {
+        "time":  "2025-04-09 10:00:00",
+        "ticker":  "BBAI",
+        "previous_close":  2.66,
+        "before_open":  2.79,
+        "before_open_chg":  4.89,
+        "30_min":  3.145,
+        "30_min_chg":  12.72
+    },
+    {
+        "time":  "2025-04-09 10:00:00",
+        "ticker":  "KLXE",
+        "previous_close":  1.76,
+        "before_open":  1.81,
+        "before_open_chg":  2.84,
+        "30_min":  2.235,
+        "30_min_chg":  23.48
+    },
+    {
+        "time":  "2025-04-09 10:00:00",
+        "ticker":  "NMAX",
+        "previous_close":  39.21,
+        "before_open":  40.46,
+        "before_open_chg":  3.19,
+        "30_min":  49.675,
+        "30_min_chg":  22.78
+    },
+    {
+        "time":  "2025-04-09 10:00:00",
+        "ticker":  "NWL",
+        "previous_close":  4.48,
+        "before_open":  4.58,
+        "before_open_chg":  2.23,
+        "30_min":  5.085,
+        "30_min_chg":  11.03
+    },
+    {
+        "time":  "2025-04-09 10:00:00",
+        "ticker":  "PHAT",
+        "previous_close":  4.25,
+        "before_open":  4.35,
+        "before_open_chg":  2.35,
+        "30_min":  4.9,
+        "30_min_chg":  12.64
+    },
+    {
+        "time":  "2025-04-09 10:00:00",
+        "ticker":  "RGTI",
+        "previous_close":  7.73,
+        "before_open":  8.0,
+        "before_open_chg":  3.49,
+        "30_min":  8.815,
+        "30_min_chg":  10.19
+    },
+    {
+        "time":  "2025-04-09 10:00:00",
+        "ticker":  "RMBL",
+        "previous_close":  2.24,
+        "before_open":  2.35,
+        "before_open_chg":  4.91,
+        "30_min":  2.585,
+        "30_min_chg":  10.0
+    },
+    {
+        "time":  "2025-04-09 10:00:00",
+        "ticker":  "WWW",
+        "previous_close":  10.07,
+        "before_open":  10.29,
+        "before_open_chg":  2.18,
+        "30_min":  11.53,
+        "30_min_chg":  12.05
+    },
+    {
+        "time":  "2025-04-10 10:00:00",
+        "ticker":  "BGLC",
+        "previous_close":  2.17,
+        "before_open":  2.22,
+        "before_open_chg":  2.3,
+        "30_min":  2.85,
+        "30_min_chg":  28.38
+    },
+    {
+        "time":  "2025-04-10 10:00:00",
+        "ticker":  "JUNE",
+        "previous_close":  8.12,
+        "before_open":  8.58,
+        "before_open_chg":  5.67,
+        "30_min":  9.77,
+        "30_min_chg":  13.87
+    },
+    {
+        "time":  "2025-04-10 10:00:00",
+        "ticker":  "PHIO",
+        "previous_close":  1.54,
+        "before_open":  1.71,
+        "before_open_chg":  11.04,
+        "30_min":  2.09,
+        "30_min_chg":  22.22
+    },
+    {
+        "time":  "2025-04-10 10:00:00",
+        "ticker":  "STAK",
+        "previous_close":  1.66,
+        "before_open":  1.78,
+        "before_open_chg":  7.23,
+        "30_min":  2.47,
+        "30_min_chg":  38.76
+    },
+    {
+        "time":  "2025-04-11 10:00:00",
+        "ticker":  "STAK",
+        "previous_close":  1.15,
+        "before_open":  1.29,
+        "before_open_chg":  12.17,
+        "30_min":  1.62,
+        "30_min_chg":  25.58
+    },
+    {
+        "time":  "2025-04-11 10:00:00",
+        "ticker":  "MLGO",
+        "previous_close":  15.91,
+        "before_open":  16.32,
+        "before_open_chg":  2.58,
+        "30_min":  18.76,
+        "30_min_chg":  14.95
+    },
+    {
+        "time":  "2025-04-24 10:00:00",
+        "ticker":  "AGEN",
+        "previous_close":  2.85,
+        "before_open":  2.92,
+        "before_open_chg":  2.46,
+        "30_min":  3.29,
+        "30_min_chg":  12.67
+    },
+    {
+        "time":  "2025-04-29 10:00:00",
+        "ticker":  "UPXI",
+        "previous_close":  12.92,
+        "before_open":  13.46,
+        "before_open_chg":  4.18,
+        "30_min":  16.85,
+        "30_min_chg":  25.19
+    },
+    {
+        "time":  "2025-04-29 10:00:00",
+        "ticker":  "OMEX",
+        "previous_close":  1.32,
+        "before_open":  1.5699,
+        "before_open_chg":  18.93,
+        "30_min":  1.8892,
+        "30_min_chg":  20.34
+    },
+    {
+        "time":  "2025-04-29 10:00:00",
+        "ticker":  "MLGO",
+        "previous_close":  7.11,
+        "before_open":  7.38,
+        "before_open_chg":  3.8,
+        "30_min":  9.08,
+        "30_min_chg":  23.04
+    },
+    {
+        "time":  "2025-05-02 10:00:00",
+        "ticker":  "SRI",
+        "previous_close":  4.15,
+        "before_open":  4.31,
+        "before_open_chg":  3.86,
+        "30_min":  4.795,
+        "30_min_chg":  11.25
+    },
+    {
+        "time":  "2025-05-05 10:00:00",
+        "ticker":  "ABVE",
+        "previous_close":  2.21,
+        "before_open":  2.3192,
+        "before_open_chg":  4.94,
+        "30_min":  2.635,
+        "30_min_chg":  13.62
+    },
+    {
+        "time":  "2025-05-07 10:00:00",
+        "ticker":  "ALGS",
+        "previous_close":  4.58,
+        "before_open":  4.75,
+        "before_open_chg":  3.71,
+        "30_min":  5.28,
+        "30_min_chg":  11.16
+    },
+    {
+        "time":  "2025-05-07 10:00:00",
+        "ticker":  "FRGT",
+        "previous_close":  1.38,
+        "before_open":  1.4198,
+        "before_open_chg":  2.88,
+        "30_min":  1.72,
+        "30_min_chg":  21.14
+    },
+    {
+        "time":  "2025-05-07 10:00:00",
+        "ticker":  "CAPR",
+        "previous_close":  7.3,
+        "before_open":  7.52,
+        "before_open_chg":  3.01,
+        "30_min":  10.19,
+        "30_min_chg":  35.51
+    },
+    {
+        "time":  "2025-05-07 10:00:00",
+        "ticker":  "ZBIO",
+        "previous_close":  9.025,
+        "before_open":  9.35,
+        "before_open_chg":  3.6,
+        "30_min":  10.675,
+        "30_min_chg":  14.17
+    },
+    {
+        "time":  "2025-05-07 10:00:00",
+        "ticker":  "LRMR",
+        "previous_close":  2.1,
+        "before_open":  2.24,
+        "before_open_chg":  6.67,
+        "30_min":  2.7,
+        "30_min_chg":  20.54
+    },
+    {
+        "time":  "2025-05-08 10:00:00",
+        "ticker":  "SLDB",
+        "previous_close":  2.59,
+        "before_open":  2.73,
+        "before_open_chg":  5.41,
+        "30_min":  3.105,
+        "30_min_chg":  13.74
+    },
+    {
+        "time":  "2025-05-08 10:00:00",
+        "ticker":  "MLGO",
+        "previous_close":  2.44,
+        "before_open":  2.56,
+        "before_open_chg":  4.92,
+        "30_min":  3.39,
+        "30_min_chg":  32.42
+    },
+    {
+        "time":  "2025-05-12 10:00:00",
+        "ticker":  "EVH",
+        "previous_close":  9.05,
+        "before_open":  9.26,
+        "before_open_chg":  2.32,
+        "30_min":  10.61,
+        "30_min_chg":  14.58
+    },
+    {
+        "time":  "2025-05-12 10:00:00",
+        "ticker":  "VREX",
+        "previous_close":  6.88,
+        "before_open":  7.22,
+        "before_open_chg":  4.94,
+        "30_min":  7.95,
+        "30_min_chg":  10.11
+    },
+    {
+        "time":  "2025-05-14 10:00:00",
+        "ticker":  "ADVM",
+        "previous_close":  2.215,
+        "before_open":  2.3001,
+        "before_open_chg":  3.84,
+        "30_min":  2.55,
+        "30_min_chg":  10.86
+    },
+    {
+        "time":  "2025-05-14 10:00:00",
+        "ticker":  "MASS",
+        "previous_close":  4.65,
+        "before_open":  4.75,
+        "before_open_chg":  2.15,
+        "30_min":  5.56,
+        "30_min_chg":  17.05
+    },
+    {
+        "time":  "2025-05-14 10:00:00",
+        "ticker":  "SLRN",
+        "previous_close":  2.07,
+        "before_open":  2.17,
+        "before_open_chg":  4.83,
+        "30_min":  2.48,
+        "30_min_chg":  14.29
+    },
+    {
+        "time":  "2025-05-14 10:00:00",
+        "ticker":  "MLGO",
+        "previous_close":  2.43,
+        "before_open":  2.49,
+        "before_open_chg":  2.47,
+        "30_min":  2.935,
+        "30_min_chg":  17.87
+    },
+    {
+        "time":  "2025-05-15 10:00:00",
+        "ticker":  "BMGL",
+        "previous_close":  1.64,
+        "before_open":  2.04,
+        "before_open_chg":  24.39,
+        "30_min":  4.49,
+        "30_min_chg":  120.1
+    },
+    {
+        "time":  "2025-05-15 10:00:00",
+        "ticker":  "VCIG",
+        "previous_close":  4.18,
+        "before_open":  4.47,
+        "before_open_chg":  6.94,
+        "30_min":  5.07,
+        "30_min_chg":  13.42
+    },
+    {
+        "time":  "2025-05-16 10:00:00",
+        "ticker":  "VCIG",
+        "previous_close":  3.49,
+        "before_open":  3.64,
+        "before_open_chg":  4.3,
+        "30_min":  4.0176,
+        "30_min_chg":  10.37
+    },
+    {
+        "time":  "2025-05-19 10:00:00",
+        "ticker":  "BMGL",
+        "previous_close":  2.3412,
+        "before_open":  2.39,
+        "before_open_chg":  2.08,
+        "30_min":  2.7601,
+        "30_min_chg":  15.49
+    },
+    {
+        "time":  "2025-05-21 10:00:00",
+        "ticker":  "ZYBT",
+        "previous_close":  7.75,
+        "before_open":  8.0,
+        "before_open_chg":  3.23,
+        "30_min":  9.14,
+        "30_min_chg":  14.25
+    },
+    {
+        "time":  "2025-05-22 10:00:00",
+        "ticker":  "LAES",
+        "previous_close":  3.45,
+        "before_open":  3.68,
+        "before_open_chg":  6.67,
+        "30_min":  4.09,
+        "30_min_chg":  11.14
+    },
+    {
+        "time":  "2025-05-22 10:00:00",
+        "ticker":  "NXTT",
+        "previous_close":  1.98,
+        "before_open":  2.15,
+        "before_open_chg":  8.59,
+        "30_min":  2.46,
+        "30_min_chg":  14.42
+    },
+    {
+        "time":  "2025-05-27 10:00:00",
+        "ticker":  "EDBL",
+        "previous_close":  3.82,
+        "before_open":  4.0,
+        "before_open_chg":  4.71,
+        "30_min":  4.8,
+        "30_min_chg":  20.0
+    },
+    {
+        "time":  "2025-05-27 10:00:00",
+        "ticker":  "MLGO",
+        "previous_close":  1.85,
+        "before_open":  1.94,
+        "before_open_chg":  4.86,
+        "30_min":  2.325,
+        "30_min_chg":  19.85
+    },
+    {
+        "time":  "2025-05-28 10:00:00",
+        "ticker":  "ARQQ",
+        "previous_close":  26.4,
+        "before_open":  27.0,
+        "before_open_chg":  2.27,
+        "30_min":  31.85,
+        "30_min_chg":  17.96
+    },
+    {
+        "time":  "2025-05-28 10:00:00",
+        "ticker":  "UPXI",
+        "previous_close":  9.93,
+        "before_open":  10.14,
+        "before_open_chg":  2.11,
+        "30_min":  11.775,
+        "30_min_chg":  16.12
+    },
+    {
+        "time":  "2025-05-28 10:00:00",
+        "ticker":  "PTHL",
+        "previous_close":  5.6,
+        "before_open":  5.98,
+        "before_open_chg":  6.79,
+        "30_min":  7.0,
+        "30_min_chg":  17.06
+    },
+    {
+        "time":  "2025-05-28 10:00:00",
+        "ticker":  "MFH",
+        "previous_close":  3.32,
+        "before_open":  3.44,
+        "before_open_chg":  3.61,
+        "30_min":  4.3585,
+        "30_min_chg":  26.7
+    },
+    {
+        "time":  "2025-05-28 10:00:00",
+        "ticker":  "ZENA",
+        "previous_close":  2.65,
+        "before_open":  2.72,
+        "before_open_chg":  2.64,
+        "30_min":  3.1093,
+        "30_min_chg":  14.31
+    },
+    {
+        "time":  "2025-05-30 10:00:00",
+        "ticker":  "SWIN",
+        "previous_close":  1.44,
+        "before_open":  1.5203,
+        "before_open_chg":  5.58,
+        "30_min":  1.7689,
+        "30_min_chg":  16.35
+    },
+    {
+        "time":  "2025-05-30 10:00:00",
+        "ticker":  "VVPR",
+        "previous_close":  4.24,
+        "before_open":  5.49,
+        "before_open_chg":  29.48,
+        "30_min":  7.5,
+        "30_min_chg":  36.61
+    },
+    {
+        "time":  "2025-06-03 10:00:00",
+        "ticker":  "BMGL",
+        "previous_close":  3.88,
+        "before_open":  4.43,
+        "before_open_chg":  14.18,
+        "30_min":  6.94,
+        "30_min_chg":  56.66
+    },
+    {
+        "time":  "2025-06-03 10:00:00",
+        "ticker":  "TLYS",
+        "previous_close":  1.46,
+        "before_open":  1.52,
+        "before_open_chg":  4.11,
+        "30_min":  1.6777,
+        "30_min_chg":  10.37
+    },
+    {
+        "time":  "2025-06-04 10:00:00",
+        "ticker":  "ONDS",
+        "previous_close":  1.42,
+        "before_open":  1.49,
+        "before_open_chg":  4.93,
+        "30_min":  1.6406,
+        "30_min_chg":  10.11
+    },
+    {
+        "time":  "2025-06-04 10:00:00",
+        "ticker":  "OXBR",
+        "previous_close":  1.54,
+        "before_open":  1.59,
+        "before_open_chg":  3.25,
+        "30_min":  1.79,
+        "30_min_chg":  12.58
+    },
+    {
+        "time":  "2025-06-04 10:00:00",
+        "ticker":  "RAY",
+        "previous_close":  1.5898,
+        "before_open":  1.65,
+        "before_open_chg":  3.79,
+        "30_min":  2.8702,
+        "30_min_chg":  73.95
+    },
+    {
+        "time":  "2025-06-05 10:00:00",
+        "ticker":  "ABL",
+        "previous_close":  6.0,
+        "before_open":  6.35,
+        "before_open_chg":  5.83,
+        "30_min":  7.595,
+        "30_min_chg":  19.61
+    },
+    {
+        "time":  "2025-06-05 10:00:00",
+        "ticker":  "MCTR",
+        "previous_close":  15.4,
+        "before_open":  20.89,
+        "before_open_chg":  35.65,
+        "30_min":  44.29,
+        "30_min_chg":  112.02
+    },
+    {
+        "time":  "2025-06-05 10:00:00",
+        "ticker":  "SORA",
+        "previous_close":  6.39,
+        "before_open":  6.5999,
+        "before_open_chg":  3.28,
+        "30_min":  7.39,
+        "30_min_chg":  11.97
+    },
+    {
+        "time":  "2025-06-06 10:00:00",
+        "ticker":  "AGMH",
+        "previous_close":  3.005,
+        "before_open":  3.31,
+        "before_open_chg":  10.15,
+        "30_min":  3.7649,
+        "30_min_chg":  13.74
+    },
+    {
+        "time":  "2025-06-06 10:00:00",
+        "ticker":  "HOTH",
+        "previous_close":  1.21,
+        "before_open":  1.245,
+        "before_open_chg":  2.89,
+        "30_min":  1.48,
+        "30_min_chg":  18.88
+    },
+    {
+        "time":  "2025-06-06 10:00:00",
+        "ticker":  "INTZ",
+        "previous_close":  2.02,
+        "before_open":  2.1,
+        "before_open_chg":  3.96,
+        "30_min":  2.35,
+        "30_min_chg":  11.9
+    },
+    {
+        "time":  "2025-06-06 10:00:00",
+        "ticker":  "KWM",
+        "previous_close":  3.52,
+        "before_open":  3.75,
+        "before_open_chg":  6.53,
+        "30_min":  4.485,
+        "30_min_chg":  19.6
+    },
+    {
+        "time":  "2025-06-06 10:00:00",
+        "ticker":  "OMH",
+        "previous_close":  1.05,
+        "before_open":  1.1896,
+        "before_open_chg":  13.3,
+        "30_min":  1.52,
+        "30_min_chg":  27.77
+    },
+    {
+        "time":  "2025-06-06 10:00:00",
+        "ticker":  "RYET",
+        "previous_close":  7.72,
+        "before_open":  7.9,
+        "before_open_chg":  2.33,
+        "30_min":  8.76,
+        "30_min_chg":  10.89
+    },
+    {
+        "time":  "2025-06-06 10:00:00",
+        "ticker":  "TLYS",
+        "previous_close":  1.46,
+        "before_open":  1.5,
+        "before_open_chg":  2.74,
+        "30_min":  1.69,
+        "30_min_chg":  12.67
+    },
+    {
+        "time":  "2025-06-09 10:00:00",
+        "ticker":  "GLE",
+        "previous_close":  1.54,
+        "before_open":  1.62,
+        "before_open_chg":  5.19,
+        "30_min":  1.92,
+        "30_min_chg":  18.52
+    },
+    {
+        "time":  "2025-06-09 10:00:00",
+        "ticker":  "MFI",
+        "previous_close":  2.17,
+        "before_open":  2.27,
+        "before_open_chg":  4.61,
+        "30_min":  2.85,
+        "30_min_chg":  25.55
+    },
+    {
+        "time":  "2025-06-10 10:00:00",
+        "ticker":  "MPAA",
+        "previous_close":  9.72,
+        "before_open":  9.94,
+        "before_open_chg":  2.26,
+        "30_min":  11.135,
+        "30_min_chg":  12.02
+    },
+    {
+        "time":  "2025-06-11 10:00:00",
+        "ticker":  "LTBR",
+        "previous_close":  13.43,
+        "before_open":  13.76,
+        "before_open_chg":  2.46,
+        "30_min":  15.25,
+        "30_min_chg":  10.83
+    },
+    {
+        "time":  "2025-06-16 10:00:00",
+        "ticker":  "ZENA",
+        "previous_close":  4.97,
+        "before_open":  5.2198,
+        "before_open_chg":  5.03,
+        "30_min":  5.87,
+        "30_min_chg":  12.46
+    },
+    {
+        "time":  "2025-06-17 10:00:00",
+        "ticker":  "NEON",
+        "previous_close":  18.65,
+        "before_open":  19.3,
+        "before_open_chg":  3.49,
+        "30_min":  21.9,
+        "30_min_chg":  13.47
+    },
+    {
+        "time":  "2025-06-23 10:00:00",
+        "ticker":  "NFE",
+        "previous_close":  2.23,
+        "before_open":  2.28,
+        "before_open_chg":  2.24,
+        "30_min":  2.5419,
+        "30_min_chg":  11.49
+    },
+    {
+        "time":  "2025-06-23 10:00:00",
+        "ticker":  "OMEX",
+        "previous_close":  1.22,
+        "before_open":  1.27,
+        "before_open_chg":  4.1,
+        "30_min":  1.41,
+        "30_min_chg":  11.02
+    },
+    {
+        "time":  "2025-06-24 10:00:00",
+        "ticker":  "OSRH",
+        "previous_close":  1.31,
+        "before_open":  1.3982,
+        "before_open_chg":  6.73,
+        "30_min":  1.6,
+        "30_min_chg":  14.43
+    },
+    {
+        "time":  "2025-06-24 10:00:00",
+        "ticker":  "CPIX",
+        "previous_close":  3.93,
+        "before_open":  4.21,
+        "before_open_chg":  7.12,
+        "30_min":  4.6682,
+        "30_min_chg":  10.88
+    },
+    {
+        "time":  "2025-06-26 10:00:00",
+        "ticker":  "IVF",
+        "previous_close":  1.02,
+        "before_open":  1.06,
+        "before_open_chg":  3.92,
+        "30_min":  1.22,
+        "30_min_chg":  15.09
+    },
+    {
+        "time":  "2025-06-26 10:00:00",
+        "ticker":  "RYET",
+        "previous_close":  5.75,
+        "before_open":  5.99,
+        "before_open_chg":  4.17,
+        "30_min":  6.96,
+        "30_min_chg":  16.19
+    },
+    {
+        "time":  "2025-06-26 10:00:00",
+        "ticker":  "SRFM",
+        "previous_close":  2.54,
+        "before_open":  2.88,
+        "before_open_chg":  13.39,
+        "30_min":  4.8197,
+        "30_min_chg":  67.35
+    },
+    {
+        "time":  "2025-06-27 10:00:00",
+        "ticker":  "BDMD",
+        "previous_close":  4.42,
+        "before_open":  4.73,
+        "before_open_chg":  7.01,
+        "30_min":  6.475,
+        "30_min_chg":  36.89
+    },
+    {
+        "time":  "2025-06-27 10:00:00",
+        "ticker":  "YAAS",
+        "previous_close":  3.72,
+        "before_open":  4.02,
+        "before_open_chg":  8.06,
+        "30_min":  5.01,
+        "30_min_chg":  24.63
+    },
+    {
+        "time":  "2025-06-30 10:00:00",
+        "ticker":  "LIMN",
+        "previous_close":  9.0,
+        "before_open":  11.08,
+        "before_open_chg":  23.11,
+        "30_min":  16.3759,
+        "30_min_chg":  47.8
+    },
+    {
+        "time":  "2025-06-30 10:00:00",
+        "ticker":  "RZLV",
+        "previous_close":  2.725,
+        "before_open":  2.95,
+        "before_open_chg":  8.26,
+        "30_min":  3.245,
+        "30_min_chg":  10.0
+    },
+    {
+        "time":  "2025-06-30 10:00:00",
+        "ticker":  "WFF",
+        "previous_close":  3.26,
+        "before_open":  3.9415,
+        "before_open_chg":  20.9,
+        "30_min":  8.7,
+        "30_min_chg":  120.73
+    },
+    {
+        "time":  "2025-07-01 10:00:00",
+        "ticker":  "AREB",
+        "previous_close":  1.25,
+        "before_open":  1.29,
+        "before_open_chg":  3.2,
+        "30_min":  1.5401,
+        "30_min_chg":  19.39
+    },
+    {
+        "time":  "2025-07-01 10:00:00",
+        "ticker":  "BDMD",
+        "previous_close":  3.64,
+        "before_open":  3.8,
+        "before_open_chg":  4.4,
+        "30_min":  4.51,
+        "30_min_chg":  18.68
+    },
+    {
+        "time":  "2025-07-01 10:00:00",
+        "ticker":  "EYEN",
+        "previous_close":  10.38,
+        "before_open":  11.0005,
+        "before_open_chg":  5.98,
+        "30_min":  12.2,
+        "30_min_chg":  10.9
+    },
+    {
+        "time":  "2025-07-08 10:00:00",
+        "ticker":  "RGC",
+        "previous_close":  18.43,
+        "before_open":  21.0981,
+        "before_open_chg":  14.48,
+        "30_min":  23.3,
+        "30_min_chg":  10.44
+    },
+    {
+        "time":  "2025-07-09 10:00:00",
+        "ticker":  "DFDV",
+        "previous_close":  20.22,
+        "before_open":  21.55,
+        "before_open_chg":  6.58,
+        "30_min":  23.98,
+        "30_min_chg":  11.28
+    },
+    {
+        "time":  "2025-07-10 10:00:00",
+        "ticker":  "GAUZ",
+        "previous_close":  5.74,
+        "before_open":  6.05,
+        "before_open_chg":  5.4,
+        "30_min":  6.9,
+        "30_min_chg":  14.05
+    },
+    {
+        "time":  "2025-07-10 10:00:00",
+        "ticker":  "PROK",
+        "previous_close":  4.34,
+        "before_open":  4.95,
+        "before_open_chg":  14.06,
+        "30_min":  6.72,
+        "30_min_chg":  35.76
+    },
+    {
+        "time":  "2025-07-14 10:00:00",
+        "ticker":  "SMX",
+        "previous_close":  2.28,
+        "before_open":  2.35,
+        "before_open_chg":  3.07,
+        "30_min":  3.08,
+        "30_min_chg":  31.06
+    },
+    {
+        "time":  "2025-07-15 10:00:00",
+        "ticker":  "LUNG",
+        "previous_close":  2.68,
+        "before_open":  2.77,
+        "before_open_chg":  3.36,
+        "30_min":  3.09,
+        "30_min_chg":  11.55
+    },
+    {
+        "time":  "2025-07-16 10:00:00",
+        "ticker":  "ARTL",
+        "previous_close":  16.07,
+        "before_open":  17.0,
+        "before_open_chg":  5.79,
+        "30_min":  18.87,
+        "30_min_chg":  11.0
+    },
+    {
+        "time":  "2025-07-16 10:00:00",
+        "ticker":  "FTFT",
+        "previous_close":  2.62,
+        "before_open":  2.7,
+        "before_open_chg":  3.05,
+        "30_min":  3.3093,
+        "30_min_chg":  22.57
+    },
+    {
+        "time":  "2025-07-17 10:00:00",
+        "ticker":  "JUNS",
+        "previous_close":  2.125,
+        "before_open":  2.28,
+        "before_open_chg":  7.29,
+        "30_min":  2.82,
+        "30_min_chg":  23.68
+    },
+    {
+        "time":  "2025-07-18 10:00:00",
+        "ticker":  "DFDV",
+        "previous_close":  26.74,
+        "before_open":  28.04,
+        "before_open_chg":  4.86,
+        "30_min":  31.01,
+        "30_min_chg":  10.59
+    },
+    {
+        "time":  "2025-07-21 10:00:00",
+        "ticker":  "BTCS",
+        "previous_close":  6.57,
+        "before_open":  7.35,
+        "before_open_chg":  11.87,
+        "30_min":  8.2624,
+        "30_min_chg":  12.41
+    },
+    {
+        "time":  "2025-07-21 10:00:00",
+        "ticker":  "BTBT",
+        "previous_close":  3.84,
+        "before_open":  3.92,
+        "before_open_chg":  2.08,
+        "30_min":  4.3397,
+        "30_min_chg":  10.71
+    },
+    {
+        "time":  "2025-07-21 10:00:00",
+        "ticker":  "RITR",
+        "previous_close":  3.8,
+        "before_open":  4.25,
+        "before_open_chg":  11.84,
+        "30_min":  5.402,
+        "30_min_chg":  27.11
+    },
+    {
+        "time":  "2025-07-22 10:00:00",
+        "ticker":  "BTCS",
+        "previous_close":  6.18,
+        "before_open":  6.4,
+        "before_open_chg":  3.56,
+        "30_min":  7.08,
+        "30_min_chg":  10.62
+    },
+    {
+        "time":  "2025-07-22 10:00:00",
+        "ticker":  "BTBT",
+        "previous_close":  3.32,
+        "before_open":  3.39,
+        "before_open_chg":  2.11,
+        "30_min":  3.7388,
+        "30_min_chg":  10.29
+    },
+    {
+        "time":  "2025-07-22 10:00:00",
+        "ticker":  "EAF",
+        "previous_close":  1.32,
+        "before_open":  1.35,
+        "before_open_chg":  2.27,
+        "30_min":  1.495,
+        "30_min_chg":  10.74
+    },
+    {
+        "time":  "2025-07-22 10:00:00",
+        "ticker":  "MEIP",
+        "previous_close":  6.3,
+        "before_open":  7.0,
+        "before_open_chg":  11.11,
+        "30_min":  8.01,
+        "30_min_chg":  14.43
+    },
+    {
+        "time":  "2025-07-22 10:00:00",
+        "ticker":  "MFH",
+        "previous_close":  2.2,
+        "before_open":  2.42,
+        "before_open_chg":  10.0,
+        "30_min":  5.87,
+        "30_min_chg":  142.56
+    },
+    {
+        "time":  "2025-07-23 10:00:00",
+        "ticker":  "MTEN",
+        "previous_close":  17.73,
+        "before_open":  18.88,
+        "before_open_chg":  6.49,
+        "30_min":  21.5,
+        "30_min_chg":  13.88
+    },
+    {
+        "time":  "2025-07-24 10:00:00",
+        "ticker":  "SDM",
+        "previous_close":  17.74,
+        "before_open":  18.48,
+        "before_open_chg":  4.17,
+        "30_min":  20.55,
+        "30_min_chg":  11.2
+    },
+    {
+        "time":  "2025-07-25 10:00:00",
+        "ticker":  "ATYR",
+        "previous_close":  5.555,
+        "before_open":  5.8,
+        "before_open_chg":  4.41,
+        "30_min":  6.54,
+        "30_min_chg":  12.76
+    },
+    {
+        "time":  "2025-07-25 10:00:00",
+        "ticker":  "OPAD",
+        "previous_close":  1.94,
+        "before_open":  2.0,
+        "before_open_chg":  3.09,
+        "30_min":  2.5719,
+        "30_min_chg":  28.59
+    },
+    {
+        "time":  "2025-07-28 10:00:00",
+        "ticker":  "OMER",
+        "previous_close":  3.83,
+        "before_open":  3.93,
+        "before_open_chg":  2.61,
+        "30_min":  4.33,
+        "30_min_chg":  10.18
+    },
+    {
+        "time":  "2025-07-30 10:00:00",
+        "ticker":  "APYX",
+        "previous_close":  1.96,
+        "before_open":  2.15,
+        "before_open_chg":  9.69,
+        "30_min":  2.52,
+        "30_min_chg":  17.21
+    },
+    {
+        "time":  "2025-07-30 10:00:00",
+        "ticker":  "NAMM",
+        "previous_close":  4.5,
+        "before_open":  4.66,
+        "before_open_chg":  3.56,
+        "30_min":  5.16,
+        "30_min_chg":  10.73
+    },
+    {
+        "time":  "2025-08-01 10:00:00",
+        "ticker":  "PTNM",
+        "previous_close":  1.16,
+        "before_open":  1.2304,
+        "before_open_chg":  6.07,
+        "30_min":  1.3784,
+        "30_min_chg":  12.03
+    },
+    {
+        "time":  "2025-08-04 10:00:00",
+        "ticker":  "CETX",
+        "previous_close":  1.16,
+        "before_open":  1.2089,
+        "before_open_chg":  4.22,
+        "30_min":  1.36,
+        "30_min_chg":  12.5
+    },
+    {
+        "time":  "2025-08-04 10:00:00",
+        "ticker":  "HCHL",
+        "previous_close":  2.8,
+        "before_open":  2.92,
+        "before_open_chg":  4.29,
+        "30_min":  4.06,
+        "30_min_chg":  39.04
+    },
+    {
+        "time":  "2025-08-05 10:00:00",
+        "ticker":  "NEGG",
+        "previous_close":  54.81,
+        "before_open":  56.0,
+        "before_open_chg":  2.17,
+        "30_min":  64.7,
+        "30_min_chg":  15.54
+    },
+    {
+        "time":  "2025-08-05 10:00:00",
+        "ticker":  "LIMN",
+        "previous_close":  5.01,
+        "before_open":  5.21,
+        "before_open_chg":  3.99,
+        "30_min":  6.19,
+        "30_min_chg":  18.81
+    },
+    {
+        "time":  "2025-08-05 10:00:00",
+        "ticker":  "SNGX",
+        "previous_close":  3.11,
+        "before_open":  3.1997,
+        "before_open_chg":  2.88,
+        "30_min":  3.56,
+        "30_min_chg":  11.26
+    },
+    {
+        "time":  "2025-08-06 10:00:00",
+        "ticker":  "RBNE",
+        "previous_close":  1.94,
+        "before_open":  2.05,
+        "before_open_chg":  5.67,
+        "30_min":  2.4209,
+        "30_min_chg":  18.09
+    },
+    {
+        "time":  "2025-08-08 10:00:00",
+        "ticker":  "PGY",
+        "previous_close":  30.54,
+        "before_open":  32.27,
+        "before_open_chg":  5.66,
+        "30_min":  37.23,
+        "30_min_chg":  15.37
+    },
+    {
+        "time":  "2025-08-08 10:00:00",
+        "ticker":  "PROK",
+        "previous_close":  2.565,
+        "before_open":  2.639,
+        "before_open_chg":  2.88,
+        "30_min":  2.925,
+        "30_min_chg":  10.84
+    },
+    {
+        "time":  "2025-08-11 10:00:00",
+        "ticker":  "AMBC",
+        "previous_close":  6.94,
+        "before_open":  7.24,
+        "before_open_chg":  4.32,
+        "30_min":  8.18,
+        "30_min_chg":  12.98
+    },
+    {
+        "time":  "2025-08-11 10:00:00",
+        "ticker":  "SUPX",
+        "previous_close":  23.16,
+        "before_open":  25.0,
+        "before_open_chg":  7.94,
+        "30_min":  28.05,
+        "30_min_chg":  12.2
+    },
+    {
+        "time":  "2025-08-12 10:00:00",
+        "ticker":  "YSXT",
+        "previous_close":  2.27,
+        "before_open":  2.6248,
+        "before_open_chg":  15.63,
+        "30_min":  2.9,
+        "30_min_chg":  10.48
+    },
+    {
+        "time":  "2025-08-13 10:00:00",
+        "ticker":  "EJH",
+        "previous_close":  1.0999,
+        "before_open":  1.27,
+        "before_open_chg":  15.47,
+        "30_min":  1.41,
+        "30_min_chg":  11.02
+    },
+    {
+        "time":  "2025-08-13 10:00:00",
+        "ticker":  "YSXT",
+        "previous_close":  2.2,
+        "before_open":  2.35,
+        "before_open_chg":  6.82,
+        "30_min":  2.682,
+        "30_min_chg":  14.13
+    },
+    {
+        "time":  "2025-08-15 10:00:00",
+        "ticker":  "BDMD",
+        "previous_close":  2.58,
+        "before_open":  2.65,
+        "before_open_chg":  2.71,
+        "30_min":  3.05,
+        "30_min_chg":  15.09
+    },
+    {
+        "time":  "2025-08-15 10:00:00",
+        "ticker":  "JEM",
+        "previous_close":  4.01,
+        "before_open":  4.18,
+        "before_open_chg":  4.24,
+        "30_min":  5.0861,
+        "30_min_chg":  21.68
+    },
+    {
+        "time":  "2025-08-18 10:00:00",
+        "ticker":  "MSW",
+        "previous_close":  1.48,
+        "before_open":  1.61,
+        "before_open_chg":  8.78,
+        "30_min":  1.8187,
+        "30_min_chg":  12.96
+    },
+    {
+        "time":  "2025-08-19 10:00:00",
+        "ticker":  "ARTW",
+        "previous_close":  3.42,
+        "before_open":  3.54,
+        "before_open_chg":  3.51,
+        "30_min":  4.14,
+        "30_min_chg":  16.95
+    },
+    {
+        "time":  "2025-08-20 10:00:00",
+        "ticker":  "AREC",
+        "previous_close":  1.26,
+        "before_open":  1.29,
+        "before_open_chg":  2.38,
+        "30_min":  1.42,
+        "30_min_chg":  10.08
+    },
+    {
+        "time":  "2025-08-26 10:00:00",
+        "ticker":  "ETHZ",
+        "previous_close":  3.075,
+        "before_open":  3.1401,
+        "before_open_chg":  2.12,
+        "30_min":  3.6,
+        "30_min_chg":  14.65
+    },
+    {
+        "time":  "2025-08-26 10:00:00",
+        "ticker":  "MJID",
+        "previous_close":  1.25,
+        "before_open":  1.29,
+        "before_open_chg":  3.2,
+        "30_min":  1.67,
+        "30_min_chg":  29.46
+    },
+    {
+        "time":  "2025-08-27 10:00:00",
+        "ticker":  "OTLK",
+        "previous_close":  2.7,
+        "before_open":  2.8,
+        "before_open_chg":  3.7,
+        "30_min":  3.22,
+        "30_min_chg":  15.0
+    },
+    {
+        "time":  "2025-08-27 10:00:00",
+        "ticker":  "OPAD",
+        "previous_close":  3.73,
+        "before_open":  3.85,
+        "before_open_chg":  3.22,
+        "30_min":  4.4,
+        "30_min_chg":  14.29
+    },
+    {
+        "time":  "2025-08-29 10:00:00",
+        "ticker":  "EUDA",
+        "previous_close":  2.215,
+        "before_open":  2.3001,
+        "before_open_chg":  3.84,
+        "30_min":  2.66,
+        "30_min_chg":  15.65
+    },
+    {
+        "time":  "2025-09-05 10:00:00",
+        "ticker":  "ZNB",
+        "previous_close":  1.3,
+        "before_open":  1.5,
+        "before_open_chg":  15.38,
+        "30_min":  2.8199,
+        "30_min_chg":  87.99
+    },
+    {
+        "time":  "2025-09-05 10:00:00",
+        "ticker":  "ZYBT",
+        "previous_close":  7.85,
+        "before_open":  8.02,
+        "before_open_chg":  2.17,
+        "30_min":  8.99,
+        "30_min_chg":  12.09
+    },
+    {
+        "time":  "2025-09-08 10:00:00",
+        "ticker":  "AIHS",
+        "previous_close":  2.38,
+        "before_open":  2.43,
+        "before_open_chg":  2.1,
+        "30_min":  2.9811,
+        "30_min_chg":  22.68
+    },
+    {
+        "time":  "2025-09-08 10:00:00",
+        "ticker":  "KWM",
+        "previous_close":  2.44,
+        "before_open":  2.5,
+        "before_open_chg":  2.46,
+        "30_min":  2.9295,
+        "30_min_chg":  17.18
+    },
+    {
+        "time":  "2025-09-09 10:00:00",
+        "ticker":  "GMHS",
+        "previous_close":  1.73,
+        "before_open":  1.8,
+        "before_open_chg":  4.05,
+        "30_min":  2.17,
+        "30_min_chg":  20.56
+    },
+    {
+        "time":  "2025-09-09 10:00:00",
+        "ticker":  "OPAD",
+        "previous_close":  4.25,
+        "before_open":  4.55,
+        "before_open_chg":  7.06,
+        "30_min":  5.4,
+        "30_min_chg":  18.68
+    },
+    {
+        "time":  "2025-09-10 10:00:00",
+        "ticker":  "CWD",
+        "previous_close":  9.25,
+        "before_open":  9.82,
+        "before_open_chg":  6.16,
+        "30_min":  24.4999,
+        "30_min_chg":  149.49
+    },
+    {
+        "time":  "2025-09-10 10:00:00",
+        "ticker":  "SONN",
+        "previous_close":  3.12,
+        "before_open":  3.25,
+        "before_open_chg":  4.17,
+        "30_min":  3.7,
+        "30_min_chg":  13.85
+    },
+    {
+        "time":  "2025-09-10 10:00:00",
+        "ticker":  "TGHL",
+        "previous_close":  2.21,
+        "before_open":  2.55,
+        "before_open_chg":  15.38,
+        "30_min":  3.25,
+        "30_min_chg":  27.45
+    },
+    {
+        "time":  "2025-09-11 10:00:00",
+        "ticker":  "SMX",
+        "previous_close":  1.34,
+        "before_open":  1.41,
+        "before_open_chg":  5.22,
+        "30_min":  1.785,
+        "30_min_chg":  26.6
+    },
+    {
+        "time":  "2025-09-11 10:00:00",
+        "ticker":  "MIMI",
+        "previous_close":  8.94,
+        "before_open":  10.2,
+        "before_open_chg":  14.09,
+        "30_min":  12.65,
+        "30_min_chg":  24.02
+    },
+    {
+        "time":  "2025-09-15 10:00:00",
+        "ticker":  "IFRX",
+        "previous_close":  1.26,
+        "before_open":  1.3,
+        "before_open_chg":  3.17,
+        "30_min":  1.4501,
+        "30_min_chg":  11.55
+    },
+    {
+        "time":  "2025-09-15 10:00:00",
+        "ticker":  "QMMM",
+        "previous_close":  73.275,
+        "before_open":  75.99,
+        "before_open_chg":  3.71,
+        "30_min":  112.01,
+        "30_min_chg":  47.4
+    },
+    {
+        "time":  "2025-09-16 10:00:00",
+        "ticker":  "HSDT",
+        "previous_close":  18.27,
+        "before_open":  18.65,
+        "before_open_chg":  2.08,
+        "30_min":  23.65,
+        "30_min_chg":  26.81
+    },
+    {
+        "time":  "2025-09-17 10:00:00",
+        "ticker":  "AIIO",
+        "previous_close":  1.7,
+        "before_open":  1.7974,
+        "before_open_chg":  5.73,
+        "30_min":  2.02,
+        "30_min_chg":  12.38
+    },
+    {
+        "time":  "2025-09-18 10:00:00",
+        "ticker":  "KALA",
+        "previous_close":  17.47,
+        "before_open":  17.99,
+        "before_open_chg":  2.98,
+        "30_min":  20.3,
+        "30_min_chg":  12.84
+    },
+    {
+        "time":  "2025-09-22 10:00:00",
+        "ticker":  "BREA",
+        "previous_close":  16.6,
+        "before_open":  18.43,
+        "before_open_chg":  11.02,
+        "30_min":  31.085,
+        "30_min_chg":  68.67
+    },
+    {
+        "time":  "2025-09-22 10:00:00",
+        "ticker":  "MNY",
+        "previous_close":  1.82,
+        "before_open":  1.9,
+        "before_open_chg":  4.4,
+        "30_min":  2.16,
+        "30_min_chg":  13.68
+    },
+    {
+        "time":  "2025-09-22 10:00:00",
+        "ticker":  "AIIO",
+        "previous_close":  1.64,
+        "before_open":  1.88,
+        "before_open_chg":  14.63,
+        "30_min":  2.11,
+        "30_min_chg":  12.23
+    },
+    {
+        "time":  "2025-09-23 10:00:00",
+        "ticker":  "GDC",
+        "previous_close":  6.0,
+        "before_open":  6.45,
+        "before_open_chg":  7.5,
+        "30_min":  7.436,
+        "30_min_chg":  15.29
+    },
+    {
+        "time":  "2025-09-24 10:00:00",
+        "ticker":  "ZYBT",
+        "previous_close":  6.92,
+        "before_open":  7.12,
+        "before_open_chg":  2.89,
+        "30_min":  8.96,
+        "30_min_chg":  25.84
+    },
+    {
+        "time":  "2025-09-25 10:00:00",
+        "ticker":  "ZYBT",
+        "previous_close":  4.97,
+        "before_open":  5.17,
+        "before_open_chg":  4.02,
+        "30_min":  6.128,
+        "30_min_chg":  18.53
+    },
+    {
+        "time":  "2025-09-29 10:00:00",
+        "ticker":  "AIIO",
+        "previous_close":  2.05,
+        "before_open":  2.26,
+        "before_open_chg":  10.24,
+        "30_min":  2.79,
+        "30_min_chg":  23.45
+    },
+    {
+        "time":  "2025-09-29 10:00:00",
+        "ticker":  "VSME",
+        "previous_close":  2.5,
+        "before_open":  2.7699,
+        "before_open_chg":  10.8,
+        "30_min":  3.05,
+        "30_min_chg":  10.11
+    },
+    {
+        "time":  "2025-10-01 10:00:00",
+        "ticker":  "SLE",
+        "previous_close":  4.49,
+        "before_open":  4.6,
+        "before_open_chg":  2.45,
+        "30_min":  5.31,
+        "30_min_chg":  15.43
+    }
+]
