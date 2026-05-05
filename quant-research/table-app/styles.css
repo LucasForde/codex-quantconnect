@@ -1,0 +1,120 @@
+:root {
+  --background: #272428;
+  --header-bg: #221f22;
+  --grid: #19181a;
+  --header-text: #ff6188;
+  --cell-text: #fcfcfa;
+  --summary-text: #ffd866;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  color-scheme: dark;
+}
+
+body {
+  margin: 0;
+  background: var(--background);
+  color: var(--cell-text);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  scrollbar-color: #3a363c var(--background);
+}
+
+.table-wrap {
+  width: 100vw;
+  height: 100vh;
+  padding: 15px;
+  overflow: auto;
+  background: var(--background);
+  scrollbar-color: #3a363c var(--background);
+}
+
+.table-wrap::-webkit-scrollbar,
+body::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+.table-wrap::-webkit-scrollbar-track,
+body::-webkit-scrollbar-track {
+  background: var(--background);
+}
+
+.table-wrap::-webkit-scrollbar-thumb,
+body::-webkit-scrollbar-thumb {
+  background: #3a363c;
+  border: 2px solid var(--background);
+  border-radius: 999px;
+}
+
+.table-wrap::-webkit-scrollbar-thumb:hover,
+body::-webkit-scrollbar-thumb:hover {
+  background: #4b454e;
+}
+
+.table-wrap::-webkit-scrollbar-corner,
+body::-webkit-scrollbar-corner {
+  background: var(--background);
+}
+
+table {
+  width: 100%;
+  min-width: 100%;
+  border-collapse: collapse;
+  table-layout: auto;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+th,
+td {
+  border: 1px solid var(--grid);
+  padding: 12px 16px;
+  text-align: left;
+  vertical-align: top;
+  white-space: nowrap;
+}
+
+th {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: var(--header-bg);
+  color: var(--header-text);
+  font-weight: 700;
+}
+
+td {
+  background: var(--background);
+  color: var(--cell-text);
+}
+
+tbody tr:nth-child(even) td {
+  background: #2b282c;
+}
+
+tfoot td {
+  position: sticky;
+  bottom: 0;
+  z-index: 1;
+  background: var(--header-bg);
+  color: var(--summary-text);
+  font-weight: 700;
+}
+
+tbody tr.summary-row td {
+  background: var(--header-bg);
+  color: var(--summary-text);
+  font-weight: 700;
+}
+
+.number-cell {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}

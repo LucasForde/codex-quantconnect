@@ -119,6 +119,10 @@ Inspect the project before changing code:
 ## Object Store and Persistence
 
 - Use the Object Store for model artifacts, derived data, and reusable state that must persist across runs.
+- When a project includes `object-store.json`, treat it as a local copy of Object Store output from recent backtests.
+- Use `object-store.json` as a development/debugging artifact when it helps inspect recorded strategy events, data shape, or backtest behavior.
+- The user may refresh `object-store.json` after running new backtests.
+- Do not treat `object-store.json` as strategy source code, configuration, or a file that should be edited unless the user explicitly asks.
 - Do not store secrets or credentials in project files or Object Store examples.
 - Version persisted artifacts when schema, model parameters, or feature definitions can change.
 - Handle missing, corrupt, or old object-store data defensively.
